@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A continuation of the narrative being the last and final dayes proceedings of the High Court of Iustice sitting in Westminster Hall on Saturday, Jan. 27. concerning the tryal of the King; with the severall speeches of the King, Lord President, &amp; Solicitor General. Together with a copy of the sentence of death upon Charls Stuart king of England. Published by authority to prevent false and impertinent relations. To these proceedings of the tryall of the King, I say, Imprimatur, Gilbert Mabbot.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74819</idno>
+            <idno type="STC">Thomason E540_14</idno>
+            <idno type="STC">Thomason E541_21</idno>
+            <idno type="STC">ESTC R207223</idno>
+            <idno type="EEBO-CITATION">99866289</idno>
+            <idno type="PROQUEST">99866289</idno>
+            <idno type="VID">164922</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74819)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164922)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E540[14]; 84:E541[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A continuation of the narrative being the last and final dayes proceedings of the High Court of Iustice sitting in Westminster Hall on Saturday, Jan. 27. concerning the tryal of the King; with the severall speeches of the King, Lord President, &amp; Solicitor General. Together with a copy of the sentence of death upon Charls Stuart king of England. Published by authority to prevent false and impertinent relations. To these proceedings of the tryall of the King, I say, Imprimatur, Gilbert Mabbot.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Playford, and are to be sold at his shop in the Inner Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 29. 1648. [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title page: Numb. 3.</note>
+                  <note>A variant title page has: ".. upon Charls Stuart King of ngland. [sic]".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Monarchy --  Great Britain --  Early works to 1800.</term>
+               <term>Prisoners --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164922:1" rendition="simple:additions"/>
+            <p>A Continuation of the NARRATIVE BEING The laſt and final dayes Proceedings OF THE High Court of Iuſtice Sitting in Weſtminſter Hall on Saturday, <hi>Jan.</hi> 27. Concerning the Tryal of the King; With the ſeverall Speeches of the King, Lord Preſident, &amp; Solicitor General. Together with a Copy of the Sentence of Death upon CHARLS STUART King of ngland. Publiſhed by Authority to prevent falſe and impertinent Relations.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>TO theſe Proceedings of the Tryall of the King, I ſay,</p>
+                        <closer>
+                           <signed>GILBERT MABBOT.</signed>
+                        </closer>
+                        <trailer>Imprimatur,</trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Playford,</hi> and are to be ſold at his ſhop in the <hi>Inner Temple, Jan.</hi> 29. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:164922:2"/>
+            <pb n="3" facs="tcp:164922:2"/>
+            <head>THE PROCEEDINGS OF THE High Court of Iuſtice Sitting at <hi>Weſtminſter-Hall, Satur<g ref="char:EOLhyphen"/>day, January</hi> 27. 1648.</head>
+            <p>O Yes made. Silence commanded. The Court called.</p>
+            <p>Firſt, The Lord Preſident, (who was in a Scarlet Veflure, be fitting the buſineſs of the day.) After him 67. Members more anſwered to their names.</p>
+            <p>The King came in, in his wonted poſture (with his Hat on.)</p>
+            <p>A Cry made in the Hall (as he paſſed to the Court) for Juſtice and Execution.</p>
+            <p>O Yes made: And Silence commanded. The Cap<g ref="char:EOLhyphen"/>tain of the Guard commanded to take into cuſtody ſuch as made any diſturbance.</p>
+            <pb n="4" facs="tcp:164922:3"/>
+            <p>Upon the Kings coming he deſired to be heard.</p>
+            <p>To which the Lord Preſident anſwered, That it might be in time, but that he muſt hear the Court firſt.</p>
+            <p>The King preſt it, for that he beleeved it would be in Order to what the Court would ſay, and that an haſty Judgment was not ſo ſoon recalled.</p>
+            <p>Then the Lord Preſident ſpake, as followeth,</p>
+            <p>Gentlemen, It is well known to all or moſt of you here preſent, that the Priſoner at the Bar hath been ſe<g ref="char:EOLhyphen"/>veral times convented, and brought before this Court to make anſwer to a Charge of Treaſon, and other high Crimes exhibited againſt him in the name of the People of<note n="*" place="margin">Here a Ma<g ref="char:EOLhyphen"/>lignant Lady interrupted the C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urt, (ſaying, not half the People,) but ſhe was ſoon ſilen<g ref="char:EOLhyphen"/>ced.</note>
+               <hi>England.</hi> To which Charge, being requi<g ref="char:EOLhyphen"/>red to anſwer, he hath been ſo far from obeying the Commands of the Court by ſubmitting to their Iu<g ref="char:EOLhyphen"/>ſtice, as he began to take upon him reaſoning and de<g ref="char:EOLhyphen"/>bate unto the Authority of the Court, and to the higheſt Court that appointed them, and to try and to judg him, but being over-ruled in that, and required to make his Anſwer, he was ſtill pleaſed to continue Contumelious, and to refuſe to ſubmit to anſwer, hereupon the Court, that they may not be wanting to themſelves, nor the Truſt repoſed in them, nor that a<g ref="char:EOLhyphen"/>ny mans wilfulneſs prevent Juſtice, they have thought fit to take the matter into their Conſideration, they have conſidered of the Charge, they have conſidered of the Contumacy, and of that confeſſion which in Law doth ariſe upon that Contumacy, they have likewiſe conſidered of the Notoriety of the Fact char<g ref="char:EOLhyphen"/>ged
+<pb n="5" facs="tcp:164922:3"/>upon this Priſoner, and upon the whole matter; they are reſolved and have agreed upon a Sentence to be pronounced againſt this Priſoner, but in reſpect he doth deſire to be heard before the Sentence be read and pronouncd; the Court hath reſolved that they wil hear him: Yet Sir, Thus much I muſt tell you beforehand, which you have been minded of at other Courts, That if that which you have to ſaybe to offer any debate con<g ref="char:EOLhyphen"/>cerning the Juriſdiction, you are not to be heard in it, you have offered it formerly, and you have ſtruck at the Root, that is, the Power and the ſupream Authori<g ref="char:EOLhyphen"/>ty of the Commons of <hi>England,</hi> which this Court will nor admit a Debate of, and which indeed it is an irrational thing in them to do, being a Court that acts upon Authority derived from them. But Sir, If you have any thing to ſay in defence of your ſelf, concern<g ref="char:EOLhyphen"/>ing the matter charged, the Court hath given me in command to let you know they will hear you.</p>
+            <p>Then the King anſwered;</p>
+            <p>Since that I ſee you will not hear any thing of De<g ref="char:EOLhyphen"/>bate, concerning that which I confeſs I thought moſt material for the Peace of the Kingdom, and for the Liberty of the Subject, I ſhall wave it, I ſhall ſpeak nothing to it; but only I muſt tell you, that this many a day all things have been taken away from me, but that that I call dearer to me then my life, which is my Conſcience and my Honor; and if I had a reſpect to my life more then the Peace of the Kingdom, the Li<g ref="char:EOLhyphen"/>berty of the Subject, certainly I ſhould have made a particular Defence for my ſelf, for by that, at leaſtwiſe,
+<pb n="6" facs="tcp:164922:4"/>I might have delayed an ugly Sentence, which I be<g ref="char:EOLhyphen"/>leeve will paſs upon me; therefore certainly, Sir, as a man that hath ſome underſtanding, ſome knowledg of the world; if that my true zeal to my Country had not overborn the care that I have for my own Preſer<g ref="char:EOLhyphen"/>vation, I ſhould have gone another way to work then that I have done: Now Sir, I conceive, that an haſty Sentance once paſt may ſooner be repented of then re<g ref="char:EOLhyphen"/>called, and truly the ſelf ſame deſire that I have for the Peace of the Kingdom, and the Liberty of the Subject more then my own particular ends, makes me now at laſt deſire, That I having ſomething to ſay that concerns both: I deſire before Sentence be given that <hi>I</hi> may be heard in the Painted Chamber before the Lords and Commons: this delay cannot be prejudicial unto you whatſoever <hi>I</hi> ſay: if that <hi>I</hi> ſay no Reaſon, thoſe that hear me muſt be Judges, <hi>I</hi> cannot be Judg of that that <hi>I</hi> have; if it be Reaſon, and really for the welfare of the Kingdom, and the Liberty of the Subject, <hi>I</hi> am ſure on't it is very well worth the hearing; therefore <hi>I</hi> do conjure you, as you love that that you pretend, (<hi>I</hi> hope its real,) the Liberty of the Subject, the Peace of the Kingdom, that you will grant me this hearing before any Sentence be paſt; <hi>I</hi> only deſire this, That you will take this into your conſideration, it may be you have not heard of it beforehand, if you will <hi>I</hi> will re<g ref="char:EOLhyphen"/>tire, and you may think of it; but if <hi>I</hi> cannot get this Liberty, <hi>I</hi> do proteſt, That theſe fair ſhews of Liberty and Peace are pure ſhews, and that you will not hear your King.</p>
+            <pb n="7" facs="tcp:164922:4"/>
+            <p>The Lord Preſident ſaid,</p>
+            <p>That what the King had ſaid, was a declining of the Juriſdiction of the Court, which was the thing where<g ref="char:EOLhyphen"/>in he was limited before.</p>
+            <p>The King urged,</p>
+            <p>That what he had to ſay was not a declining of the Court, but for the Peace of the Kingdom, and liberty of the Subject.</p>
+            <p>
+               <hi>Lord Preſident.</hi>
+            </p>
+            <p>Sir; This is not altogether new that you have moved unto us, though it is the firſt time that, in perſon, you have offered it to the Court: And afterwards, That though what he had urged might ſeem to tend to de<g ref="char:EOLhyphen"/>lays, yet according to that which the King ſeemed to deſire, the Court would withdraw for a time, and he ſhould hear their pleaſure.</p>
+            <p>Then the Court withdrawing into the Court of Wards, The Sergeant at Arms had command to withdraw the Priſoner, and to give Order for his Return again.</p>
+            <p>The Court after about half an hours debate returned from the Court of Wards Chamber; And the King being ſent for, the Lord Preſident ſpake to this effect;</p>
+            <p>Sir, You were pleaſed to make a motion here to the
+<pb n="8" facs="tcp:164922:5"/>Court, touching the propounding of ſomewhat to he Lords and Commons in the painted Chamber, for he Peace of the Kingdom; you did in effect receive in anſwer, before their adjourning, being <hi>pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orma tantum;</hi> for it did not ſeem to them that there was any difficulty in the thing; they have conſi<g ref="char:EOLhyphen"/>dered of what you have moved, and of their own Authority: The Return from the Court is this. That they have been too much delayed by you already, and they are Judges appointed by the higheſt Authority, and Judges are no more to delay, then they are to deny Juſtice; they are good words in the great old Charter of England, <hi>Nulli negabimus, nulli condemus, et nulli defer<g ref="char:EOLhyphen"/>remus juſtitiam:</hi> But everyman obſervs you have delay'd them in your Contempt and Default, for which they might long ſince have proceeded to Judgment againſt you; and notwithſtanding what you have offered, they are reſolved to proceed to Sentence and to Judgment, and that's their unanimous Reſolution.</p>
+            <pb n="9" facs="tcp:164922:5"/>
+            <p>
+               <hi>King.</hi> Sir, I know it is in vain for me for to diſpute, I am no <hi>Seperick</hi> for to deny the power that you have; I know that you have power enough: Sir I muſt confeſſe I think it would have been for the King<g ref="char:EOLhyphen"/>domes peace if you would have taken the paines for to have ſhowne the lawfulneſſe of your Power: for this delay that I have deſired, I confeſſe it is a delay, but it is a delay very important for the Peace of the Kingdome; for it is not my perſon that I look at alone, it is the Kingdomes welfare and the King<g ref="char:EOLhyphen"/>domes peace: it is an old ſentence, <hi>That we ſhould think on long before we have reſolv'd of great matters ſuddainly;</hi> therefore Sir I do ſay again, that I do put at your doores all the inconveniency of a haſty ſen<g ref="char:EOLhyphen"/>tence. I confeſſe I have been here now I think this week, this day 8. daies was the day I came here firſt, but a little delay of a day or two further may give peace, whereas an haſty Judgement may bring on that trouble and perpetuall inconveniency to the Kingdome, that the child that is unborne may repent it; and therefore againe out of the duty I owe to God, and to my Country, I do deſire that I may be heard by the Lords and Commons in the painted Chamber, or any other Chamber that you will ap<g ref="char:EOLhyphen"/>point me.</p>
+            <p>The Preſident replyed, that what he deſired was no more then what he had moved before, and there<g ref="char:EOLhyphen"/>fore the Court expected to heare what he would ſay before they proceeded to ſentence.</p>
+            <pb n="10" facs="tcp:164922:6"/>
+            <sp>
+               <speaker>King.</speaker>
+               <p>This I ſay, That if you will heare me, I do not doubt to give ſatisfaction to you, and to my people, and therefore I do require you (as you will anſwer it at the dreadfull Day of Judgement) that you will conſider it once againe.</p>
+            </sp>
+            <sp>
+               <speaker>Preſident.</speaker>
+               <p>The Court will proceed to ſentence, if you have no more to ſay.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Sir, I have nothing more to ſay, but I ſhall deſire that this may be entred what I have ſaid.</p>
+            </sp>
+            <p>The Lord Preſident then proceeded to declare the grounds of the ſentence, That the Court were reſol<g ref="char:EOLhyphen"/>ved to diſcharge their duty, that he had ſpoken of a precious thing cal'd Peace, and it were to be wiſh't that God had put it into his heart that he had effe<g ref="char:EOLhyphen"/>ctually and really indeavoured and ſtudied the Peace of the Kingdome, as now in words he ſeem'd to pre<g ref="char:EOLhyphen"/>tend; That it appeared to the Court, that he had gone upon very erroneous principles, the Kingdome had felt it to their ſmart, that the Court was very ſen<g ref="char:EOLhyphen"/>ſible of it, and ſo he hoped the underſtanding People of England would be; That the Law was his Supe<g ref="char:EOLhyphen"/>riour, and that he ought to have ruled according to the Law: the difference was, who ſhould be the Ex<g ref="char:EOLhyphen"/>poſitors of the Law, whether he and his party out of the Courts of Juſtice, or the Courts of Juſtice, nay the Soveraigne and high Court of Juſtice, the <hi>Parlia<g ref="char:EOLhyphen"/>ment of England,</hi> that is not only the higheſt expoun<g ref="char:EOLhyphen"/>der of the Law, but the ſole maker of the Law, and
+<pb n="11" facs="tcp:164922:6"/>that for him and thoſe that adhered to him to ſet themſelves againſt it, was not Law. That what ſome of his owne Party had ſaid, <hi>Rex non habet parem in regno,</hi> was granted, but though he was <hi>major ſingulis,</hi> yet he was <hi>univerſis minor,</hi> That the Barons of old when the Kings playd the Tyrants, called them to account, that they did <hi>frenum ponere,</hi> that if they did forbeare to doe their duty now, and were not ſo mindfull of their owne Honour and the Kingdomes, as the Barons of old were, certainly the Commonalty of <hi>England</hi> would not be unmindfull of what was for their pre<g ref="char:EOLhyphen"/>ſervation, and their ſafety. That if the King went contrary to that end, he muſt underſtand that he is but an Officer in truſt, and they to take order for the puniſhment of ſuch an offending Governour. That this is not a Law of Yeſterday, upon the diviſion of Him and his People, but of old; and that the Kings Oath implied as much: and where the People could not have any other remedy, the Parliament were to do it, who were ordained to redreſſe the grievances of the People. The Parliaments were to be kept, we finde in old Authors, twice in the year, that the Sub<g ref="char:EOLhyphen"/>ject might upon any occaſion have a ready remedy. That his deſigne had beene to deſtroy Parliaments, and that when they would not ingage againſt his na<g ref="char:EOLhyphen"/>tive Kingdom of <hi>Scotland,</hi> he diſſolv'd the Parlia<g ref="char:EOLhyphen"/>ment. That as <hi>Caligula</hi> the great Roman Tyrant wiſht the People of Rome had but one neck, that at one blow hee might cut it off; and this Kings pro<g ref="char:EOLhyphen"/>ceedings had beene ſomwhat like his; For, the
+<pb n="12" facs="tcp:164922:7"/>Body of the People of <hi>England</hi> is no where re<g ref="char:EOLhyphen"/>preſented but in Parliament; and could Hee but have confounded that, hee would ſoone have cut off the Head and Neck of <hi>England.</hi> That it was no new thing to cite Preſidents, where the peo<g ref="char:EOLhyphen"/>ple (when power was in their hands) have made bold to call their Kings to account; that it would be too long a time to mention either <hi>France, Spaine,</hi> the Emperour, or other Countreyes, but he inſtanc'd in the Kingdome of <hi>Aragon,</hi> where there was a man <hi>Tanquam in medio poſitus,</hi> betwixt the King and the people, and he is acknowledged to be the Kings Su<g ref="char:EOLhyphen"/>periour, and is the grand preſerver of the peoples Priviledges; and what the <hi>Tribunes of Rome</hi> were here<g ref="char:EOLhyphen"/>tofort, and the <hi>Ephori</hi> to the <hi>Lacedemonian State,</hi> that was the Parliament of England to the <hi>Engliſh State;</hi> that he needed not to mention thoſe foraigne ſto<g ref="char:EOLhyphen"/>ries, if he look'd but over <hi>Twede,</hi> there was enough in his native Kingdome of <hi>Scotland,</hi> if they look'd upon their firſt King <hi>Terg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſius,</hi> who left two ſons in their minority, and the older ſeeming diſaffected to their peace, and oppoſing his Uncle, who ruled well, they choſe the younger: that of 109. <hi>Kings of Scot<g ref="char:EOLhyphen"/>land,</hi> he need not make mention how many of them the people had made bold to deale withall, ſome to baniſh, and ſome to impriſon, and ſome to put to death, no Kingdome had more plentifull experience then that Kingdome hath, or the depoſition and pu<g ref="char:EOLhyphen"/>niſhment of their offending and tranſgreſſing Kings; And not to go farre for example, the <hi>Kings Crand<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mother</hi> ſet aſide, and his Father an <hi>Infant</hi> crowned.
+<pb n="13" facs="tcp:164922:7"/>And there wants not examples here in England both before and ſince the Conqueſt, as King <hi>Edward</hi> the ſecond and <hi>Richard</hi> the ſecond were ſo dealt with by the Parliament, and whoſoever looks into their ſto<g ref="char:EOLhyphen"/>ries ſhould not find the Articles that are charg'd up<g ref="char:EOLhyphen"/>on them, to come neare to that heigth and capital<g ref="char:EOLhyphen"/>neſſe of crimes that were laid to his Charge, and for ſucceſſion by inheritance it was plaine from the Conqueſt that of 24. Kings, one halfe of them came in by the State.</p>
+            <p>That the Oath at his Coronation did ſhew there was a contract and bargain made by the people.</p>
+            <p>After the Lord Preſident had cited many things to this purpoſe, in relation to the power of Kings, and their being called to account for breach of Truſt, and expreſſed in what ſence this preſent King had been guilty, according to his Charge of being a Ty<g ref="char:EOLhyphen"/>rant, Traytor, Murtherer, and publike Enemy to the Common-wealth. He further declared in the name of the Court, That they did heartily wiſh, that hee would be ſo penitent for what hee had done amiſſe, that GOD might have mercy at leaſt<g ref="char:EOLhyphen"/>wiſe upon his better part; for the other it was their duty to do it, and to doe that which the Law preſcribes, they were not there <hi>jus dare,</hi> but <hi>jus dice<g ref="char:EOLhyphen"/>re;</hi> that they could not but remember what the Scripture ſaid, <hi>For to acquit the guilty it is equall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>homination as to condemne the innocent;</hi> we may not acquit the guilty; what ſentence the Law affirmes to a Traytor, a Tyrant, a Murtherer, and a publike Enemy to the Countrey, that ſentence he was to hear read unto him.</p>
+            <pb n="14" facs="tcp:164922:8"/>
+            <p>Then the Clerke read the ſentence drawn up in parchment.</p>
+            <p>
+               <hi>That whereas the Commons of Eng<g ref="char:EOLhyphen"/>land in Parliament had appointed them an high Court of Justice for the trying of</hi> Charles Stuart <hi>King of England, be<g ref="char:EOLhyphen"/>fore whom he had been three times con<g ref="char:EOLhyphen"/>vented, and at the firſt time a Charge of high Treaſon, and other crimes and miſ<g ref="char:EOLhyphen"/>demeanours was read in the behalf of the kingdome of England, &amp;c.</hi>
+            </p>
+            <p>Here the Clark read the Charge.</p>
+            <p>Which Charge being read unto him as aforeſaid, he the ſaid <hi>Charles Stuart</hi> was required to give his Anſwer, but he refuſed ſo to do, and ſo expreſt the ſeverall paſſages at his Triall in refuſing to anſwer.</p>
+            <p>
+               <hi>For all which Treaſons and Crimes this Court doth adjudge, That he the ſaid</hi> Charles Stuart, <hi>as a Tyrant, Traitor, Murtherer and a publike Enemy, ſhall be put to death, by the ſevering of his Head from his Body.</hi>
+            </p>
+            <pb n="15" facs="tcp:164922:8"/>
+            <p>After the ſentence read, the Lord Preſident ſaid,</p>
+            <p>This ſentence now read and publiſhed, it is the act, ſentence, judgement, and reſolution of the whole Court: here the Court ſtood up, as aſſenting to what the Preſident ſaid.</p>
+            <sp>
+               <speaker>King.</speaker>
+               <p>Will you heare me a word Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Lord Preſident.</speaker>
+               <p>Sir, you are not to be heard after the ſentence.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>No Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Lord Preſident.</speaker>
+               <p>No Sir, by your favour Sir. Guard, with-draw your Priſoner.</p>
+            </sp>
+            <sp>
+               <speaker>King.</speaker>
+               <p>I may ſpeake after the ſentence.</p>
+            </sp>
+            <p>By your favour Sir, I may ſpeak after the ſentence ever.</p>
+            <p>By your favour (hold) the ſentence Sir—</p>
+            <p>I ſay Sir I do—</p>
+            <p>I am not ſuffered for to ſpeak, expect what Juſtice other people will have.</p>
+            <p>O Yes. All manner of perſons that have any thing elſe to do, are to depart at this time, and to give their attendance in the painted Chamber, to which place this Court doth forthwith adjourne it ſelfe.</p>
+            <p>Then the Court roſe, and the King went with his Guard to Sir <hi>Robert Cottons,</hi> and from thence to Whitehall.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
